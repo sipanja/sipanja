@@ -125,13 +125,6 @@ Interests    : Threat Intelligence, Automation
 
 # > git log --stat
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sipanja&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipanja&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
