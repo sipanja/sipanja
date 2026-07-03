@@ -1,17 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,40:0f172a,100:00ff88&text=SOUVIK%20PANJA&fontColor=00ff88&fontSize=58&fontAlignY=36&desc=AI%20Security%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Cybersecurity%20Researcher&descAlignY=56&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,40:0f172a,100:00ff88&text=SOUVIK%20PANJA&fontColor=00ff88&fontSize=62&fontAlignY=36&desc=AI%20Security%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Cybersecurity%20Researcher&descAlignY=57&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&center=true&vCenter=true&width=1000&color=00FF88&lines=Artificial+Intelligence;Machine+Learning;Cybersecurity;AI+Security;LLM+Security;Autonomous+AI+Agents;Building+NeuralLotus;Building+SoTaNik+AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=1000&color=00FF88&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;Cybersecurity+%F0%9F%94%90;AI+Security+Research+%F0%9F%9B%A1%EF%B8%8F;LLM+Security+%F0%9F%94%91;Security+Automation+%E2%9A%99%EF%B8%8F;Autonomous+AI+Agents+%F0%9F%9A%80;Building+NeuralLotus+%F0%9F%8C%B8;Building+SoTaNik+AI+%F0%9F%9B%A1%EF%B8%8F"/>
+
+<br/>
 
 <p>
-
-<img src="https://komarev.com/ghpvc/?username=sipanja&style=for-the-badge&color=00ff88"/>
-
-<img src="https://img.shields.io/github/followers/sipanja?style=for-the-badge&logo=github&color=00ff88"/>
-
-<img src="https://img.shields.io/github/stars/sipanja?style=for-the-badge&logo=github&color=00ff88"/>
-
+  <img src="https://komarev.com/ghpvc/?username=sipanja&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/sipanja?style=for-the-badge&logo=github&color=00ff88&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/sipanja?style=for-the-badge&logo=github&color=00ff88&label=STARS"/>
 </p>
 
 </div>
@@ -20,596 +18,539 @@
 
 <div align="center">
 
-# 「 AI • MACHINE LEARNING • CYBERSECURITY • AUTOMATION 」
+```
+╔══════════════════════════════════════════════════════════════════╗
+║         AI  •  MACHINE LEARNING  •  CYBERSECURITY               ║
+║              AUTOMATION  •  LLM SECURITY  •  OSINT               ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-# > sudo systemctl status souvik.service
+## > sudo systemctl status souvik.service
 
 ```console
-● souvik.service
-
-Loaded: loaded (/usr/lib/systemd/system/souvik.service)
-
-Active: active (running)
+● souvik.service — AI Security Engineer & ML Developer
+   Loaded: loaded (/usr/lib/systemd/system/souvik.service)
+   Active: ● active (running) since boot
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Identity
+  Identity
+  ─────────────────────────────────────────────────────
+  Name          : Souvik Panja
+  Role          : AI Security Engineer
+  Location      : India 🇮🇳
+  Education     : B.Tech Student
+  Status        : Building Intelligent Security Systems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Name          : Souvik Panja
-
-Role          : AI Security Engineer
-
-Location      : India
-
-Education     : B.Tech Student
-
-Status        : Building Intelligent Security Systems
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Current Mission
+  Current Mission
+  ─────────────────────────────────────────────────────
+  [✔] NeuralLotus          — Autonomous AI Security Agent
+  [✔] Fake News Detection   — ML-Powered Misinformation Detection
+  [✔] SoTaNik AI           — AI Cybersecurity Platform
+  [✔] LLM Security Research — Prompt Injection & Jailbreak Analysis
+  [✔] Autonomous AI Agents  — Multi-Agent Security Orchestration
+  [✔] Security Automation   — AI-Driven Recon & Threat Workflows
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✔ NeuralLotus
-
-✔ Fake News Detection Platform
-
-✔ SoTaNik AI
-
-✔ AI Security Research
-
-✔ LLM Security
-
-✔ Autonomous AI Agents
+  System Load
+  ─────────────────────────────────────────────────────
+  [█████████████████████████████░░░░░░] 87%  Learning
+  [███████████████████████████████░░░░] 90%  Building
+  [█████████████████████████░░░░░░░░░░] 78%  Researching
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-System Status
-
-███████████████████████████░░░░░░░░ 87%
-
 ```
 
 ---
 
-# > whoami
+## > whoami
 
 ```bash
 $ whoami
 
-Hi 👋
+  Hi 👋  I'm Souvik Panja.
 
-I'm Souvik Panja.
+  An aspiring AI Security Engineer passionate about building
+  intelligent cybersecurity solutions using Artificial Intelligence,
+  Machine Learning, LLMs, and Security Automation.
 
-An aspiring AI Security Engineer passionate about
-building intelligent cybersecurity solutions
-using Artificial Intelligence, Machine Learning,
-LLMs and Security Automation.
+  I design systems that combine AI reasoning with real-world
+  security workflows — from autonomous recon agents to
+  LLM-powered threat intelligence platforms.
 
-I enjoy designing systems that combine
-AI reasoning with practical security workflows.
-
-Current Focus
-
-• AI Security
-
-• Machine Learning
-
-• Large Language Models
-
-• Security Automation
-
-• Threat Intelligence
-
-• Python Development
-
-• Linux
-
-• Autonomous AI Agents
+  ┌─ Current Focus ──────────────────────────────────────────┐
+  │                                                          │
+  │  🤖  Autonomous AI Security Agents                       │
+  │  🔐  LLM Security & Red Teaming                         │
+  │  🛡️  AI-Powered Threat Intelligence                      │
+  │  ⚙️  Security Automation & Orchestration                 │
+  │  🧠  Multi-Agent AI Systems                              │
+  │  🐍  Python Development & Open Source                    │
+  │                                                          │
+  └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# > cat /proc/profile
+## > cat /proc/profile
 
 ```yaml
-name: Souvik Panja
-
-role: AI Security Engineer
-
-country: India
+name        : Souvik Panja
+role        : AI Security Engineer
+country     : India
 
 languages:
-
-- Python
-
-- C
-
-- C++
-
-- JavaScript
+  - Python
+  - C
+  - C++
+  - JavaScript
 
 backend:
-
-- Flask
-
-- FastAPI
+  - Flask
+  - FastAPI
 
 database:
+  - PostgreSQL
+  - SQLite
+  - Supabase
 
-- PostgreSQL
+AI/ML:
+  - Scikit-Learn
+  - TensorFlow
+  - PyTorch
+  - Transformers
+  - Ollama
+  - LangChain
 
-- SQLite
-
-- Supabase
-
-AI:
-
-- Scikit-Learn
-
-- TensorFlow
-
-- PyTorch
-
-- Transformers
-
-- Ollama
+security:
+  - Recon Automation
+  - Vulnerability Assessment
+  - LLM Red Teaming
+  - Threat Intelligence
+  - OSINT Automation
+  - SIEM Integration
 
 interests:
-
-- Artificial Intelligence
-
-- Machine Learning
-
-- AI Security
-
-- LLM Security
-
-- Threat Intelligence
-
-- Security Automation
+  - AI Security
+  - LLM Security
+  - Security Automation
+  - Threat Intelligence
+  - AI Agents
 
 currently_learning:
-
-- AI Agents
-
-- Multi-Agent Systems
-
-- Advanced LLM Security
-
-- Cloud Security
-
-- Offensive Security
+  - Multi-Agent AI Systems
+  - Advanced LLM Security
+  - Cloud Security (AWS/GCP)
+  - Kubernetes & DevSecOps
+  - Offensive Security & Red Teaming
 ```
 
 ---
 
-# > cat ~/.mission
+## > ls -la ~/automation_stack
 
-> **Mission**
-
-To build intelligent AI-powered security systems capable of detecting, understanding and defending against modern cyber threats through automation, machine learning and autonomous reasoning.
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     ⚙️  AUTOMATION STACK                                ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  🔍  Reconnaissance Automation                                           ║
+║  ├── Nmap          — Port & Service Discovery                            ║
+║  ├── Subfinder     — Subdomain Enumeration                               ║
+║  ├── Naabu         — Fast Port Scanning                                  ║
+║  ├── Katana        — Web Crawler & JS Analysis                           ║
+║  ├── HTTPX         — HTTP Probing & Fingerprinting                       ║
+║  ├── GAU           — Historical URL Harvesting                           ║
+║  └── Nuclei        — Automated Vulnerability Scanning                    ║
+║                                                                          ║
+║  🤖  AI Security Automation                                              ║
+║  ├── LLM Reasoning — AI-Powered Vulnerability Analysis                   ║
+║  ├── Ollama        — Local LLM Inference for Threat Analysis             ║
+║  ├── AI Agents     — Autonomous Attack Surface Mapping                   ║
+║  ├── Transformers  — NLP-Based Log & Alert Classification                ║
+║  └── Auto-Reporting— AI-Generated Security Assessment Reports            ║
+║                                                                          ║
+║  🧠  AI Workflow Orchestration                                           ║
+║  ├── Multi-Agent   — Coordinated Agent Task Distribution                 ║
+║  ├── LangChain     — LLM Pipeline Construction                           ║
+║  ├── Tool Calling  — Dynamic Tool Selection by AI                        ║
+║  └── Memory Systems— Context-Aware Persistent AI Agents                  ║
+║                                                                          ║
+║  📡  Threat Intelligence Automation                                      ║
+║  ├── OSINT Bots    — Automated Open Source Intelligence Gathering        ║
+║  ├── IOC Enrichment— Auto Threat Indicator Lookup & Correlation          ║
+║  ├── RSS Monitors  — Real-Time CVE & Threat Feed Ingestion               ║
+║  ├── Dark Web Scan — Automated Exposure & Leak Monitoring                ║
+║  └── Geo-IP Mapping— Automated Attacker Origin Correlation               ║
+║                                                                          ║
+║  🐍  Python Security Automation                                          ║
+║  ├── Custom Scripts— Recon, Exploitation & Reporting Pipelines           ║
+║  ├── API Wrappers  — VirusTotal, Shodan, Censys, AbuseIPDB              ║
+║  ├── Log Parsers   — Automated SIEM Log Analysis Scripts                 ║
+║  ├── Payload Gen   — AI-Assisted Payload Generation & Mutation           ║
+║  └── FastAPI Hooks — Webhook & Alert Automation Backends                 ║
+║                                                                          ║
+║  ☁️  DevSecOps & Pipeline Automation                                     ║
+║  ├── Docker        — Containerized Security Tool Environments            ║
+║  ├── GitHub Actions— Automated Security Checks on Code Push              ║
+║  ├── CI/CD Hooks   — SAST / DAST Integration in Dev Pipelines            ║
+║  └── Secret Scanner— Automated Credential & Key Leak Detection           ║
+║                                                                          ║
+║  📊  Monitoring & Alerting Automation                                    ║
+║  ├── Dashboard     — Real-Time Security Event Visualization              ║
+║  ├── WebSockets    — Live Streaming of Scan Results                      ║
+║  ├── Alert Engine  — Auto-Triage & Priority Scoring of Findings          ║
+║  └── Report Bot    — Auto-Generated PDF/HTML Security Reports            ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-# > echo \$RESEARCH
+## > tree ~/projects
 
 ```text
-Artificial Intelligence
-
-Machine Learning
-
-AI Security
-
-LLM Security
-
-Cyber Threat Intelligence
-
-OSINT
-
-Automation
-
-Security Engineering
-
-Python Development
-
-Cloud Security
-
-Network Security
-
-Digital Forensics
-
-Secure Software Development
-```
-
----
-
-# > ls -la ~/current_projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🤖 NeuralLotus | Autonomous AI Security Agent | 🟢 Active |
-| 📰 Fake News Detection | AI-powered Fake News Detection using Machine Learning | 🟢 Active |
-| 🛡 SoTaNik AI | AI Cybersecurity Platform | 🟢 Active |
-
----
-
-# > cat /proc/philosophy
-
-> "Technology becomes meaningful when it helps people solve real problems."
-
-> I believe Artificial Intelligence should strengthen cybersecurity through intelligent automation, responsible engineering and continuous learning.
-
----
-
-<div align="center">
-
-## ⚡ "Learn • Build • Secure • Repeat"
-
-</div>
-
----
-
-# > neofetch
-
-```yaml
-OS          : Linux
-
-Editor      : VS Code
-
-Languages   : Python • C • C++ • JavaScript
-
-Frameworks  : Flask • FastAPI • React
-
-Database    : PostgreSQL • SQLite • Supabase
-
-AI Stack    : Scikit-Learn • TensorFlow • PyTorch • Transformers
-
-Tools       : Git • Docker • Linux • GitHub
-
-Focus       : AI Security • Machine Learning • Cybersecurity
-```
-
----
-# > cat /etc/toolbox.conf
-
-<div align="center">
-
-## 🛠 AI • MACHINE LEARNING • CYBERSECURITY TOOLBOX
-
-</div>
-
----
-
-## 🤖 Artificial Intelligence
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Sentence%20Transformers-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css"/>
-
-</p>
-
----
-
-## 🌐 Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs"/>
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
-
-</p>
-
----
-
-## ☁ Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode"/>
-
-</p>
-
----
-
-## 🔐 Cybersecurity
-
-```text
-Reconnaissance
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✔ Nmap
-✔ Nuclei
-✔ Subfinder
-✔ Naabu
-✔ Katana
-✔ HTTPX
-✔ GAU
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Web Security
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✔ OWASP Top 10
-✔ Burp Suite
-✔ OWASP ZAP
-✔ Web Enumeration
-✔ Vulnerability Assessment
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Operating Systems
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✔ Kali Linux
-✔ Ubuntu
-✔ Windows
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Research Areas
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✔ AI Security
-✔ LLM Security
-✔ Threat Intelligence
-✔ Security Automation
-✔ OSINT
-```
-
----
-
-# > tree ~/projects
-
-```text
-📁 Projects
+📁 Projects/
 │
-├── 🤖 NeuralLotus
-│   ├── Autonomous AI Security Agent
-│   ├── Recon Automation
-│   ├── AI Reasoning Engine
-│   ├── Vulnerability Scanner
-│   ├── Dashboard
-│   └── Report Generator
+├── 🤖 NeuralLotus/                  [ACTIVE]
+│   ├── 🧠 ai_reasoning_engine/
+│   │   ├── llm_analysis.py
+│   │   ├── vulnerability_classifier.py
+│   │   └── auto_exploit_advisor.py
+│   ├── 🔍 recon_automation/
+│   │   ├── subdomain_enum.py
+│   │   ├── port_scanner.py
+│   │   ├── web_crawler.py
+│   │   └── nuclei_runner.py
+│   ├── 📊 dashboard/
+│   │   ├── realtime_websocket.py
+│   │   └── report_generator.py
+│   └── ⚙️  orchestrator/
+│       ├── agent_controller.py
+│       └── task_scheduler.py
 │
-├── 📰 Fake News Detection
-│   ├── Linear SVM
-│   ├── TF-IDF
-│   ├── Flask
-│   ├── Sentence Transformers
-│   ├── RSS Verification
-│   └── Semantic Similarity
+├── 📰 Fake News Detection/           [COMPLETED]
+│   ├── 🧬 models/
+│   │   ├── svm_tfidf.pkl
+│   │   └── sentence_transformer.py
+│   ├── 🌐 api/
+│   │   ├── flask_app.py
+│   │   └── rss_verifier.py
+│   └── 📈 accuracy: ~97% (TF-IDF + SVM)
 │
-├── 🛡 SoTaNik AI
-│   ├── Cyber Dashboard
-│   ├── Threat Intelligence
-│   ├── AI Security
-│   ├── Recon Engine
-│   └── Security Analytics
+├── 🛡️ SoTaNik AI/                   [IN DEVELOPMENT]
+│   ├── 📡 threat_intel/
+│   │   ├── osint_collector.py
+│   │   ├── ioc_enrichment.py
+│   │   └── feed_aggregator.py
+│   ├── 🤖 ai_engine/
+│   │   ├── llm_analyzer.py
+│   │   └── anomaly_detector.py
+│   └── 📊 analytics_dashboard/
+│       └── security_metrics.py
 │
 └── 🚀 More Projects Coming...
 ```
 
 ---
 
-# > cat /proc/projects
+## > cat /proc/projects
 
-## 🤖 NeuralLotus
+### 🤖 NeuralLotus
 
 ```yaml
-Status:
-    Active Development
+Status        : Active Development
+Category      : Autonomous AI Security Agent
 
-Category:
-    Autonomous AI Security Agent
+Description:
+  NeuralLotus is an autonomous AI-powered security agent
+  that combines reconnaissance automation, LLM reasoning,
+  and vulnerability detection into a single intelligent pipeline.
 
-Features:
-
-    • AI Reasoning
-
-    • Autonomous Reconnaissance
-
-    • Vulnerability Detection
-
-    • AI Report Generation
-
-    • Interactive Dashboard
+Automation Highlights:
+  ✔ AI selects and runs appropriate recon tools automatically
+  ✔ LLM analyzes scan results and generates threat context
+  ✔ Nuclei templates auto-matched to discovered attack surface
+  ✔ AI writes full vulnerability assessment reports
+  ✔ WebSocket dashboard streams live results in real-time
+  ✔ Autonomous task scheduling with priority queue
 
 Tech Stack:
-
-    Python
-
-    FastAPI
-
-    WebSockets
-
-    Nmap
-
-    Nuclei
-
-    Ollama
+  Python | FastAPI | WebSockets
+  Nmap | Nuclei | Subfinder | Katana
+  Ollama | LLM Reasoning Engine
 ```
 
 ---
 
-## 📰 Fake News Detection
+### 📰 Fake News Detection
 
 ```yaml
-Status:
-    Completed
+Status        : Completed ✅
 
-Machine Learning:
+Description:
+  An AI-powered platform that classifies news articles as
+  real or fake using NLP and machine learning, with live
+  Google News RSS cross-verification.
 
-    Linear SVM
+Automation Highlights:
+  ✔ Auto-fetches and classifies news from RSS feeds
+  ✔ TF-IDF + Linear SVM pipeline for instant classification
+  ✔ Sentence Transformers for semantic similarity scoring
+  ✔ Flask dashboard with one-click article verification
+  ✔ Batch classification support for multiple articles
 
-    TF-IDF
-
-    Sentence Transformers
-
-Features:
-
-    Fake News Classification
-
-    Google News RSS Verification
-
-    Semantic Similarity
-
-    Flask Dashboard
-
-Accuracy:
-
-    High Accuracy using TF-IDF + SVM
+Accuracy      : ~97% using TF-IDF + SVM
 ```
 
 ---
 
-## 🛡 SoTaNik AI
+### 🛡️ SoTaNik AI
 
 ```yaml
-Status:
-    In Development
+Status        : In Development 🔨
 
-Modules:
+Description:
+  A comprehensive AI-powered cybersecurity platform with
+  multi-agent threat intelligence, recon automation,
+  and LLM-driven security analytics.
 
-    Threat Intelligence
-
-    AI Security
-
-    Recon Dashboard
-
-    Research Platform
+Automation Highlights:
+  ✔ Automated OSINT collection and enrichment pipeline
+  ✔ IOC (Indicators of Compromise) auto-correlation engine
+  ✔ Real-time CVE monitoring and alert automation
+  ✔ AI-driven anomaly detection from logs and events
+  ✔ Multi-agent system for parallel security analysis
+  ✔ Automated report generation with risk scoring
 
 Future:
-
-    Multi-Agent AI
-
-    LLM Integration
-
-    Security Automation
+  Multi-Agent AI | Cloud Integration | SIEM Connectors
 ```
 
 ---
 
-# > cat /proc/current_learning
+## > cat /etc/toolbox.conf
+
+<div align="center">
+
+### 🛠️ FULL TOOLBOX
+
+</div>
+
+---
+
+### 🤖 Artificial Intelligence & ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+</p>
+
+---
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css"/>
+</p>
+
+---
+
+### 🌐 Web & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
+</p>
+
+---
+
+### ☁️ Cloud, DevOps & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
+
+---
+
+### 🔐 Cybersecurity Arsenal
 
 ```text
-██████████████████████████████████████
-
-Artificial Intelligence           ██████████
-
-Machine Learning                  ██████████
-
-LLM Security                      █████████░
-
-AI Agents                         █████████░
-
-Cloud Security                    ████████░░
-
-Red Team Automation               ███████░░░
-
-██████████████████████████████████████
+╔════════════════════════════════════════════════════════════╗
+║  Reconnaissance                                            ║
+║  ──────────────────────────────────────────────────────    ║
+║  ✔ Nmap         ✔ Nuclei       ✔ Subfinder                ║
+║  ✔ Naabu        ✔ Katana       ✔ HTTPX                    ║
+║  ✔ GAU          ✔ Amass        ✔ Shodan API               ║
+║                                                            ║
+║  Web Security                                              ║
+║  ──────────────────────────────────────────────────────    ║
+║  ✔ OWASP Top 10              ✔ Burp Suite                 ║
+║  ✔ OWASP ZAP                 ✔ SQL Injection              ║
+║  ✔ XSS Testing               ✔ SSRF / IDOR               ║
+║  ✔ Vulnerability Assessment  ✔ Web Enumeration            ║
+║                                                            ║
+║  AI Security & LLM Red Teaming                             ║
+║  ──────────────────────────────────────────────────────    ║
+║  ✔ Prompt Injection Research ✔ Jailbreak Testing          ║
+║  ✔ LLM Bias Analysis        ✔ Model Output Safety         ║
+║  ✔ AI Agent Security        ✔ RAG Security Testing        ║
+║                                                            ║
+║  Threat Intelligence                                       ║
+║  ──────────────────────────────────────────────────────    ║
+║  ✔ OSINT Automation         ✔ IOC Enrichment              ║
+║  ✔ CVE Monitoring           ✔ Dark Web Monitoring         ║
+║  ✔ VirusTotal API           ✔ AbuseIPDB API               ║
+║                                                            ║
+║  Operating Systems                                         ║
+║  ──────────────────────────────────────────────────────    ║
+║  ✔ Kali Linux    ✔ Ubuntu    ✔ Windows                    ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# > cat /etc/certificates
+## > cat /proc/current_learning
 
 ```text
-✔ Certified Social Engineering Defense Practitioner (CSEDP)
-
-✔ Machine Learning Projects
-
-✔ AI Security Research
-
-✔ Python Development
-
-✔ Continuous Learning
+  ┌─────────────────────────────────────────────────────────────┐
+  │                    SKILL PROGRESS MAP                       │
+  ├──────────────────────────────────────────┬──────────────────┤
+  │  Artificial Intelligence                 │  ██████████  99% │
+  │  Machine Learning                        │  ██████████  97% │
+  │  Python Development                      │  ██████████  95% │
+  │  LLM Security                            │  █████████░  90% │
+  │  AI Security Agents                      │  █████████░  88% │
+  │  Security Automation                     │  ████████░░  84% │
+  │  Cloud Security (AWS/GCP)                │  ███████░░░  72% │
+  │  Red Team Automation                     │  ██████░░░░  65% │
+  │  Kubernetes & DevSecOps                  │  █████░░░░░  55% │
+  │  Offensive Security                      │  █████░░░░░  52% │
+  └──────────────────────────────────────────┴──────────────────┘
 ```
 
 ---
 
+## > cat /etc/certificates
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    CERTIFICATIONS & ACHIEVEMENTS             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ✔  Certified Social Engineering Defense Practitioner (CSEDP)║
+║  ✔  Machine Learning Projects — Completed                    ║
+║  ✔  AI Security Research — Active                            ║
+║  ✔  Python Development — Proficient                          ║
+║  ✔  Fake News Detection System — Built & Deployed            ║
+║  ✔  NeuralLotus Autonomous Agent — Active Development        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## > cat ~/roadmap_2026.txt
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                      2026 ROADMAP                            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Q1  [✔] Ship NeuralLotus v1 — Public Release               ║
+║      [✔] Publish AI Security Research                        ║
+║      [✔] Improve LLM Security Knowledge                      ║
+║                                                              ║
+║  Q2  [✔] Build Advanced Multi-Agent AI Systems               ║
+║      [✔] Contribute to Open Source Security Projects         ║
+║      [→] Launch SoTaNik AI Platform (Beta)                   ║
+║                                                              ║
+║  Q3  [→] Learn Cloud Security (AWS / GCP)                    ║
+║      [→] Build AI-Driven SIEM Integration                    ║
+║      [→] Learn Kubernetes & DevSecOps                        ║
+║                                                              ║
+║  Q4  [→] Advance Red Team Automation Skills                  ║
+║      [→] Create More AI Security Tools                       ║
+║      [→] Publish Research on LLM Vulnerability Patterns      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## > cat /proc/philosophy
+
+```text
+❝ Technology becomes meaningful when it helps people
+  solve real problems. ❞
+
+  I believe Artificial Intelligence should strengthen
+  cybersecurity through intelligent automation, responsible
+  engineering, and continuous learning — not replace the
+  human judgment that makes security truly effective.
+```
+
+---
+
+## > git log --stat
+
 <div align="center">
 
-## 🚀 "Every project is another step toward building intelligent and secure AI systems."
+### 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sipanja&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipanja&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 ---
-# > git log --stat
+
+## > git status
 
 <div align="center">
 
-## 📊 GitHub Analytics
+### 🔥 Contribution Streak
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sipanja&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipanja&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sipanja&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# > git status
+## > graph contributions
 
 <div align="center">
 
-## 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sipanja&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# > graph contributions
-
-<div align="center">
-
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipanja&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true"/>
 
@@ -617,11 +558,11 @@ Red Team Automation               ███████░░░
 
 ---
 
-# > github trophies
+## > github trophies
 
 <div align="center">
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=sipanja&theme=matrix&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
@@ -629,178 +570,73 @@ Red Team Automation               ███████░░░
 
 ---
 
-# > cat /proc/github_stats
-
-```yaml
-Repositories:
-    Public Projects
-
-Main Focus:
-
-    Artificial Intelligence
-
-    Machine Learning
-
-    AI Security
-
-    Cybersecurity
-
-    Open Source
-
-Working On:
-
-    NeuralLotus
-
-    SoTaNik AI
-
-    Fake News Detection
-
-Open To:
-
-    Collaboration
-
-    Research
-
-    Open Source Projects
-
-    Learning New Technologies
-```
-
----
-
-# > cat ~/roadmap_2026.txt
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-ROADMAP
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✔ Build NeuralLotus v1
-
-✔ Complete AI Security Research
-
-✔ Publish Open Source Projects
-
-✔ Improve LLM Security Knowledge
-
-✔ Contribute to Open Source
-
-✔ Build Advanced AI Agents
-
-✔ Learn Cloud Security
-
-✔ Learn Kubernetes
-
-✔ Improve DevOps Skills
-
-✔ Create More AI Tools
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# > cat /proc/opensource
-
-```text
-I enjoy building open-source projects that combine
-
-Artificial Intelligence
-
-Machine Learning
-
-Automation
-
-Cybersecurity
-
-with practical real-world applications.
-
-Open-source is one of the best ways to learn,
-share knowledge and collaborate with developers
-around the world.
-```
-
----
-
-# > ping social
+## > ping social
 
 <div align="center">
 
 <a href="https://github.com/sipanja">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/souvik-panja-5764a1321/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:souvikpanja582@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# > fortune
+## > systemctl status motivation.service
 
-```text
-"There is always another bug to fix,
+```console
+● motivation.service — Core Drive Engine
+   Loaded: loaded
+   Active: ● active (running)
 
-another model to train,
+  ┌─ Current Output ──────────────────────────────────────┐
+  │                                                       │
+  │  Learning AI             ████████████████████  100%  │
+  │  Building Projects       ███████████████████░   97%  │
+  │  Security Research       ██████████████████░░   90%  │
+  │  Open Source             ███████████████░░░░░   78%  │
+  │  Cybersecurity           ████████████████░░░░   83%  │
+  │                                                       │
+  └───────────────────────────────────────────────────────┘
 
-another idea to build,
-
-and another challenge to solve."
-
-— Souvik Panja
+  Next Goal ──────────────────────────────────────────────
+  Build AI systems that make cybersecurity more intelligent,
+  automated, and accessible — for everyone.
 ```
 
 ---
 
-# > systemctl status motivation.service
+## > fortune
 
-```console
-● motivation.service
-
-Loaded: loaded
-
-Active: active (running)
-
-Current Status
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Learning AI           ████████████
-
-Building Projects     ████████████
-
-Cybersecurity         ███████████░
-
-Research              ██████████░░
-
-Open Source           ███████████░
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Next Goal
-
-Build AI systems that make cybersecurity
-more intelligent, automated and accessible.
+```text
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║   "There is always another bug to fix,                   ║
+  ║    another model to train,                               ║
+  ║    another agent to deploy,                              ║
+  ║    and another system to secure."                        ║
+  ║                                                          ║
+  ║                               — Souvik Panja             ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-## 💚 Thanks for visiting!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&center=true&vCenter=true&width=700&color=00FF88&lines=Keep+Learning...;Keep+Building...;Keep+Securing...;Keep+Automating...;See+you+again!+👋"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff88,100:0d1117"/>
+### ⭐ If you find my work useful, consider starring my repositories!
 
-### ⭐ If you like my work, consider starring my repositories!
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&color=00FF88&lines=Keep+Learning...;Keep+Building...;Keep+Securing...;See+you+again!"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,100:0d1117"/>
 
 </div>
