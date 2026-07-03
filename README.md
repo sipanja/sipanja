@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&color=00FF88&lines=AI+%26+Cybersecurity+Researcher;Machine+Learning+Developer;Building+Autonomous+Security+Agents;Fake+News+Detection+Using+AI;Open+Source+Learner;Always+Learning+New+Things"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00ff88&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sipanja&label=Profile+Views&color=00ff88&style=for-the-badge"/>
 
 </div>
 
@@ -143,9 +143,9 @@ AI-powered Cybersecurity Platform focused on
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sipanja&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipanja&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -153,7 +153,7 @@ AI-powered Cybersecurity Platform focused on
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sipanja&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -163,7 +163,7 @@ AI-powered Cybersecurity Platform focused on
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sipanja&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -173,7 +173,7 @@ AI-powered Cybersecurity Platform focused on
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sipanja&theme=algolia&column=4&margin-w=10"/>
 
 </p>
 
@@ -205,15 +205,15 @@ Red Team Automation
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sipanja">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/souvik-panja-5764a1321/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:souvikpanja582@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
