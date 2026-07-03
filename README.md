@@ -202,30 +202,17 @@ Progress
 
 <div align="center">
 
-## > fortune
- 
-```text
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║   "There is always another bug to fix,                   ║
-  ║    another model to train,                               ║
-  ║    another agent to deploy,                              ║
-  ║    and another system to secure."                        ║
-  ║                                                          ║
-  ║                               — Souvik Panja             ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
- 
----
- 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&center=true&vCenter=true&width=700&color=00FF88&lines=Keep+Learning...;Keep+Building...;Keep+Securing...;Keep+Automating...;See+you+again!+👋"/>
 
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,100:0d1117"/>
+## 💚 Thanks for visiting!
 
-```text
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff88,100:0d1117"/>
+
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&color=00FF88&lines=Keep+Learning...;Keep+Building...;Keep+Securing...;See+you+again!"/>
+
+</div>
 [ SYSTEM STATUS ]
 > Keep Learning.
 > Keep Building.
